@@ -8,7 +8,7 @@ class Forms extends Component {
 			return <Field 
 				name={name} 
 				type={type} 
-				index={index}
+				key={index}
 			/>;
 		});
 		return (
