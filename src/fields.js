@@ -12,6 +12,7 @@ class Forms extends Component {
 				key={index}
 			/>;
 		});
+
 		return (
 			<div>
 				<form>
