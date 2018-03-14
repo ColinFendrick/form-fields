@@ -4,10 +4,11 @@ import myData from './placeholder-data.json';
 
 class Forms extends Component {
 	render() {
-		const fieldList = myData.map(({ name, type }, index) => {
+		const fieldList = myData.map(({ name, type, size }, index) => {
 			return <Field 
 				name={name} 
-				type={type} 
+				type={type}
+				size={size}
 				key={index}
 			/>;
 		});
