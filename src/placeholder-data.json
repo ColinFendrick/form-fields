@@ -1,0 +1,23 @@
+{
+  "1": {
+    "name": "Name",
+    "size": "small"
+  },
+  "2": {
+    "name": "Phone",
+    "size": "small",
+    "type": "number"
+  },
+  "3": {
+    "name": "Address Line 1",
+    "size": "medium"
+  },
+  "4": {
+    "name": "Address Line 2",
+    "size": "Large"
+  },
+   "5": {
+     "name": "Email",
+     "type": "email"
+   }
+}

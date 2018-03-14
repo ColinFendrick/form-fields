@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
+import Field from './field';
 
 class Forms extends Component {
 	render() {
 		return (
 			<div>
 				<form>
-					<input placeholder="placeholdertext">
-					</input>
+					<Field placeholder="text stuff whaa" />
 					<button type="submit">add</button>
 				</form>
 			</div>
