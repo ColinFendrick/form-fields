@@ -8,7 +8,6 @@ class Forms extends Component {
 			return <Field 
 				name={name} 
 				type={type} 
-				placeholder={name}
 				index={index}
 			/>;
 		});

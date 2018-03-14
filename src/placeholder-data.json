@@ -16,8 +16,8 @@
     "name": "Address Line 2",
     "size": "Large"
   },
-   {
-     "name": "Email",
-     "type": "email"
-   }
-  ]
+  {
+    "name": "Email",
+    "type": "email"
+  }
+]
